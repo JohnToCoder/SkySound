@@ -1,0 +1,318 @@
+* {
+	padding: 0px;
+}
+body {
+	font: 12px/1.7em "????"; margin: 0px; text-align: center; color: rgb(77, 152, 0); font-size-adjust: none; font-stretch: normal;
+}
+a:link {
+	color: rgb(64, 127, 0); text-decoration: none;
+}
+a:visited {
+	color: rgb(64, 127, 0); text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+form {
+	margin: 0px; padding: 0px;
+}
+input {
+	margin: 0px; padding: 0px;
+}
+b {
+	color: rgb(102, 102, 102);
+}
+strong {
+	color: rgb(102, 102, 102);
+}
+th {
+	color: rgb(102, 102, 102);
+}
+input {
+	border: 1px solid rgb(204, 204, 204); font-family: "????"; font-size: 9pt; vertical-align: bottom; background-color: rgb(195, 229, 116);
+}
+select {
+	border: 1px solid rgb(204, 204, 204); color: rgb(51, 51, 51); font-family: "????"; font-size: 9pt;
+}
+.short_input {
+	border: 1px solid rgb(204, 204, 204); width: 100px; color: rgb(51, 51, 51); font-family: "????"; font-size: 9pt;
+}
+.select_input {
+	border: 1px solid rgb(204, 204, 204); width: 50px; color: rgb(51, 51, 51); font-family: "????"; font-size: 9pt;
+}
+.newtopic_submit {
+	border: 1px solid rgb(100, 179, 0); color: rgb(100, 179, 0); line-height: normal; font-family: "????"; font-size: 9pt; background-color: rgb(255, 255, 255);
+}
+.submit_style {
+	border: 1px solid rgb(51, 51, 51); font-family: "????"; font-size: 9pt; vertical-align: bottom;
+}
+.select {
+	border: 1px solid rgb(153, 153, 153); color: rgb(51, 51, 51); font-family: "????"; font-size: 9pt; background-color: rgb(250, 255, 244);
+}
+.quote {
+	margin: 5px 20px; padding: 5px; border: 1px solid rgb(204, 204, 204); overflow: hidden; display: block; background-color: rgb(253, 253, 253);
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.light {
+	color: rgb(77, 152, 0);
+}
+.broken_line {
+	background: url("images/dotline.gif") repeat-x bottom;
+}
+.body-container {
+	background: rgb(195, 222, 129); width: 1004px;
+}
+.main {
+	padding: 0px 45px;
+}
+.main a:link {
+	color: rgb(51, 51, 51);
+}
+.main a:hover {
+	color: rgb(153, 102, 0);
+}
+.main a:visited {
+	color: rgb(51, 51, 51);
+}
+.main-top-left {
+	background: url("images/main-top-left.jpg") no-repeat;
+}
+.main-top-center {
+	background: url("images/main-top-center.jpg") repeat-x;
+}
+.main-top-right {
+	background: url("images/main-top-right.jpg") no-repeat;
+}
+.main-center-left {
+	background: url("images/main-center-left.jpg") repeat-y;
+}
+.main-center {
+	background: url("images/main-center.gif"); color: rgb(51, 51, 51);
+}
+.main-center-right {
+	background: url("images/main-center-right.jpg") repeat-y;
+}
+.main-bottom-left {
+	background: url("/image/main-bottom-left.jpg") no-repeat;
+}
+.main-bottom-center {
+	background: url("images/main-bottom-center.jpg") repeat-x;
+}
+.main-bottom-right {
+	background: url("images/main-bottom-right.jpg") no-repeat;
+}
+.service {
+	background: url("images/service.jpg") no-repeat; width: 866px; height: 537px;
+}
+.honorli {
+	list-style: none;
+}
+.business {
+	background: url("images/business.jpg") no-repeat; width: 866px; height: 537px;
+}
+.bank {
+	background: url("images/bank.jpg") no-repeat; width: 866px; height: 537px;
+}
+.main-menu {
+	width: 100px; height: 400px; text-align: left; margin-top: 100px; margin-left: 20px;
+}
+.main-content {
+	width: 640px; height: 475px; text-align: left; margin-top: 25px; margin-right: 20px;
+}
+.xlogo {
+	background-position: right top; background-image: url("images/xlogo.gif"); background-repeat: no-repeat;
+}
+.my_item_div {
+	padding: 3px; border: 1px solid rgb(153, 153, 153); width: 300px; height: 130px; margin-bottom: 5px; margin-left: 5px; float: left;
+}
+.store_item_div {
+	padding: 3px; border: 1px solid rgb(153, 153, 153); width: 300px; height: 130px; margin-bottom: 5px; margin-left: 5px; float: left;
+}
+.freeMarket_item_div {
+	padding: 3px; border: 1px solid rgb(153, 153, 153); width: 300px; height: 130px; margin-top: 2px; margin-left: 3px; float: left;
+}
+.uline {
+	border-top-color: rgb(181, 226, 124); border-bottom-color: rgb(181, 226, 124); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.list_bian {
+	border-right-color: rgb(187, 228, 135); border-left-color: rgb(187, 228, 135); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+.list_kuang {
+	background-position: bottom; border-right-color: rgb(187, 228, 135); border-left-color: rgb(187, 228, 135); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-bottom-style: none; border-left-style: solid; background-image: url("images/list_botom_line.gif"); background-repeat: repeat-x;
+}
+.list_kuang2 {
+	background-position: right; border-right-style: none; background-image: url("images/list_right_line.gif"); background-repeat: repeat-y;
+}
+.list_title {
+	border-top-color: rgb(181, 226, 124); border-top-width: 1px; border-top-style: solid;
+}
+.list_title_0 {
+	border: 1px solid rgb(187, 228, 135);
+}
+.list_title_00 {
+	background: rgb(195, 222, 129); width: 97%; height: 1px;
+}
+.list_title_01 {
+	background-position: left bottom; padding: 5px 50px; width: 770px; height: 20px; background-image: url("/image/list_title_01.jpg"); background-repeat: no-repeat;
+}
+.list_title_02 {
+	padding: 6px 20px; width: 830px; height: 20px; background-image: url("images/list_title_02.jpg"); background-repeat: no-repeat;
+}
+.list_title_03 {
+	background-position: left bottom; padding: 6px 20px; width: 830px; height: 20px; background-image: url("images/list_title_03.jpg"); background-repeat: no-repeat;
+}
+.list_title_04 {
+	padding: 5px 50px; width: 770px; height: 20px; background-image: url("images/list_title_04.jpg"); background-repeat: no-repeat;
+}
+.header_day {
+	 width: 1004px; height: 0px; text-align: left;
+}
+.header_night {
+	 width: 1004px; height: 315px; text-align: left;
+}
+.header_user {
+	 padding: 12px 15px; width: 536px; height: 16px; margin-top: 200px; margin-left: 160px; float: left; _margin-left: 80px;
+}
+.header_login {
+	width: 152px; height: 117px; margin-top: 147px; margin-right: 99px; float: right; _margin-top: 150px; _margin-right: 60px;
+}
+.footer_info {
+	padding: 20px 50px; text-align: left;
+}
+.footer_img {
+	background: url("/image/bottom_bg.gif") no-repeat; height: 42px;
+}
+.footer_logo {
+	color: rgb(255, 255, 255); background-color: rgb(95, 162, 6);
+}
+.dropdownMenu {
+	list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; color: rgb(153, 102, 0);
+}
+.dropdownMenu ul {
+	list-style: none; margin: 0px; padding: 0px; border: 0px currentColor; color: rgb(153, 102, 0);
+}
+.dropdownMenu a {
+	border: 0px currentColor; height: 20px; line-height: 20px; float: left; display: block;
+}
+.dropdownMenu a:hover {
+	border: 0px currentColor; text-decoration: none; background-color: rgb(200, 225, 139);
+}
+.dropdownMenu li {
+	border: 0px currentColor; float: left;
+}
+.dropdownMenu li ul {
+	background: rgb(174, 211, 87); border: 1px solid rgb(204, 204, 204); width: 70px; position: absolute;
+}
+.dropdownMenu li ul li {
+	border-width: 0px 1px; border-style: solid; border-color: rgb(204, 204, 204); width: 70px;
+}
+.dropdownMenu li ul li ul {
+	background: rgb(174, 211, 87); width: 150px; margin-top: -30px; margin-left: 70px; float: left; position: absolute;
+}
+.dropdownMenu li ul li ul span {
+	width: 50%; float: left;
+}
+.dropdownMenu li ul span {
+	width: 50%; float: left;
+}
+.pages a {
+	background: rgb(255, 255, 255); margin: 0px 0.1em 0.1em 0px; padding: 0.1em 0.2em; border: 1px solid rgb(255, 255, 255);
+}
+.pages span {
+	background: rgb(255, 255, 255); margin: 0px 0.1em 0.1em 0px; padding: 0.1em 0.2em; border: 1px solid rgb(255, 255, 255);
+}
+.pages span.current {
+	background: rgb(153, 204, 102); border: 1px solid rgb(153, 204, 0); color: rgb(255, 255, 255); font-weight: bold;
+}
+.pages a:link {
+	border: 1px solid rgb(232, 255, 176); line-height: 15px; text-decoration: none;
+}
+.pages a:visited {
+	border: 1px solid rgb(232, 255, 176); line-height: 15px; text-decoration: none;
+}
+.pages a:hover {
+	border-color: rgb(46, 106, 177);
+}
+.pages a.nextprev {
+	font-weight: bold;
+}
+.pages span.nextprev {
+	border: 1px solid rgb(232, 255, 176); color: rgb(153, 153, 153); line-height: 15px;
+}
+.pages span.stat {
+	border: 1px solid rgb(232, 255, 176); color: rgb(153, 153, 153); line-height: 15px;
+}
+.kuang {
+	border: 1px solid rgb(187, 228, 135); width: 97%; margin-left: 10px;
+}
+.botom_line {
+	background-position: bottom; background-image: url("/images/list_botom_line.gif"); background-repeat: repeat-x;
+}
+.right_line {
+	background-position: right; border-right-style: none; background-image: url("/images/list_right_line.gif"); background-repeat: repeat-y;
+}
+.uline2 {
+	border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.reply_user {
+	padding: 3px 1px 3px 5px; text-align: left; line-height: 150%;
+}
+.reply_menu {
+	padding: 4px 3px 2px; height: 20px; border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.reply_content {
+	padding: 4px 8px; text-align: left; line-height: 150%;
+}
+.dialog_div {
+	padding: 20px; background-color: rgb(255, 255, 255);
+}
+.prog-border {
+	background: rgb(255, 255, 255); margin: 0px; padding: 0px; border: 1px solid rgb(0, 0, 0); width: 205px; height: 5px;
+}
+.prog-bar {
+	background: rgb(23, 131, 153); margin: 2px; padding: 0px; height: 5px; font-size: 10pt;
+}
+.botom_line a {
+	
+}
+.reply_content .botom_line a {
+	white-space: normal;
+}
+#eMeng {
+	width: 168px; height: 116px; right: 0px; bottom: 0px; padding-right: 5px; padding-left: 10px; font-size: 12px; position: fixed;
+}
+* html #eMeng {
+	right: 18px; position: absolute;
+}
+.os1 {
+	margin: auto; width: 280px; height: 100%; overflow: hidden;
+}
+.os1 li {
+	list-style: none;
+}
+.os1 li a {
+	white-space: normal;
+}
+.os {
+	margin: auto; width: 149px; height: 100%; overflow: hidden;
+}
+.os li {
+	list-style: none;
+}
+.os li a {
+	white-space: normal;
+}
+.forum_topic_inner {
+	margin: auto; width: 402px; height: 100%; text-align: left;
+}
+.forum_topic_inner li {
+	list-style: none;
+}
+.forum_topic_inner a {
+	width: 402px;
+}
